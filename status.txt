@@ -1,0 +1,13 @@
+API REST Node + Typescript modelo de 3 capas
+https://www.youtube.com/watch?v=T1QFGwOnQxQ
+
+Clean architecture Node + Typescript
+https://www.youtube.com/watch?v=497L4-LhvdM
+
+
+API REST NodeJS con DOCKER
+https://www.youtube.com/watch?v=Sg5l0rwZKs4
+
+
+Documentacion de APIS con SWAGGER
+https://www.youtube.com/watch?v=rIWGcxnVIA8
